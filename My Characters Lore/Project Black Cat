@@ -1,19 +1,17 @@
-     ▒░░░░░░░░░░░░░░░░░░░░▄▀░░▌▒▒▒▒▒▒▒▒▒▒▒
-     ▒░░░░░░░░░░░░░░░░░░▄▀▐░░░▌▒▒▒▒▒▒▒▒▒▒▒
-     ▒░░░░░░░░░░░░░░▄▀▀▒▐▒░░░▌▒▒▒▒▒▒▒▒▒▒▒▒
-     [head=2]O[/head]░░░░▄▀▀▄░░░▄▄▀▀▒▒▒▒▌▒▒░░▌▒▒▒▒▒▒▒▒▒▒▒[head=2]B[/head]
-    [head=2]P[/head]░░▐▒░░░▀▄▀▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒[head=2]L[/head]
-    [head=2]E[/head]░░▌▒░░░░▒▀▄▒▒▒▒▒▒▒▒▒▒▒▒▒▀▄▒▒▒▒▒▒▒▒▒▒[head=2]A[/head]
-    [head=2]R[/head]░░░▐▒░░░░░▒▒▒▒▒▒▒▒▒▌▒▐▒▒▒▒▒▀▄▒▒▒▒▒▒▒[head=2]C[/head]
-    [head=2]A[/head]░░░▌▀▄░░▒▒▒▒▒▒▒▒▐▒▒▒▌▒▌▒▄▄▒▒▐▒▒▒▒▒▒▒[head=2]K[/head]
-    [head=2]T[/head]░░▌▌▒▒▀▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▒█▄█▌▒▒▌▒▒▒▒▒▒
-    [head=2]I[/head]▄▀▒▐▒▒▒▒▒▒▒▒▒▒▒▄▀█▌▒▒▒▒▒▀▀▒▒▐░░░▄▒▒▒[head=2]C[/head]
-    [head=2]O[/head]▒▒▒▒▌▒▒▒▒▒▒▒▄▒▐███▌▄▒▒▒▒▒▒▒▄▀▀▀▀▒▒▒▒[head=2]A[/head]
-    [head=2]N[/head]▒▒▒▒▐▒▒▒▒▒▄▀▒▒▒▀▀▀▒▒▒▒▄█▀░░▒▌▀▀▄▄▒▒▒[head=2]T[/head]
-        ▒▒▒▒▒▒█▒▄▄▀▒▒▒▒▒▒▒▒▒▒▒░░▐▒▀▄▀▄░░░░▀▒▒
-    ▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▄▒▒▒▒▄▀▒▒▒▌░░▀▄▒▒▒▒▒
-    ▒▒▒▒▒▒▒▒▀▄▒▒▒▒▒▒▒▒▀▀▀▀▒▒▒▄▀▒▒▒▒▒▒▒▒▒▒
-
+▒░░░░░░░░░░░░░░░░░░▄▀▐░░░▌▒▒▒▒▒▒▒▒▒▒▒
+▒░░░░░░░░░░░░░░▄▀▀▒▐▒░░░▌▒▒▒▒▒▒▒▒▒▒▒▒
+░░░░▄▀▀▄░░░▄▄▀▀▒▒▒▒▌▒▒░░▌▒▒▒▒▒▒▒▒▒▒▒[head=2]B[/head]
+░░▐▒░░░▀▄▀▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒[head=2]L[/head]
+░░▌▒░░░░▒▀▄▒▒▒▒▒▒▒▒▒▒▒▒▒▀▄▒▒▒▒▒▒▒▒▒▒[head=2]A[/head]
+░░░▐▒░░░░░▒▒▒▒▒▒▒▒▒▌▒▐▒▒▒▒▒▀▄▒▒▒▒▒▒▒[head=2]C[/head]
+░░░▌▀▄░░▒▒▒▒▒▒▒▒▐▒▒▒▌▒▌▒▄▄▒▒▐▒▒▒▒▒▒▒[head=2]K[/head]
+░░▌▌▒▒▀▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▒█▄█▌▒▒▌▒▒▒▒▒▒
+▄▀▒▐▒▒▒▒▒▒▒▒▒▒▒▄▀█▌▒▒▒▒▒▀▀▒▒▐░░░▄▒▒▒[head=2]C[/head]
+▒▒▒▒▌▒▒▒▒▒▒▒▄▒▐███▌▄▒▒▒▒▒▒▒▄▀▀▀▀▒▒▒▒[head=2]A[/head]
+▒▒▒▒▐▒▒▒▒▒▄▀▒▒▒▀▀▀▒▒▒▒▄█▀░░▒▌▀▀▄▄▒▒▒[head=2]T[/head]
+▒▒▒▒▒▒█▒▄▄▀▒▒▒▒▒▒▒▒▒▒▒░░▐▒▀▄▀▄░░░░▀▒▒
+▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▄▒▒▒▒▄▀▒▒▒▌░░▀▄▒▒▒▒▒
+▒▒▒▒▒▒▒▒▀▄▒▒▒▒▒▒▒▒▀▀▀▀▒▒▒▄▀▒▒▒▒▒▒▒▒▒▒
 
 [color=#c0753b]█░█░█[/color]   [head=2] JOINT BLACK OPERATION  [/color][/head][color=#1b67a5]█▄░█░▀█▀[/color]
 [color=#c0753b]█░█░█   [head=2]  Waffles Co[/color]   &  [color=#1b67a5]Nanotrasen [/head]█░▀█░░█ [/color]
@@ -33,6 +31,7 @@ Project Black Cat is a coordinated initiative established between Waffles Co. an
 Waffles Co. maintains strict neutrality in market conflicts, supplying multiple megacorporations—including [color=#cb0000]C████,sun Ind██████s[/color], currently one of Waffles’ highestvalue clients.
 
 However, the increasing aggression and volatility of [color=#cb0000]C████,sun’s[/color] covert divisions, combined with the continuous interference of Donk Co., has created an unstable commercial environment affecting both Waffles and Nanotrasen.
+This collaboration offers Nanotrasen a competitive advantage without implying formal allegiance.
 
 Black Cat aims to:
 • Apply strategic pressure on  by disrupting its capacity to operate uncontested inside NT controlled sectors.
@@ -42,55 +41,17 @@ Black Cat aims to:
 
 For this purpose, Operative [color=#cb0000]K█████ O████ S███[/color] AK [bold] Black Cat [/bold] will embed as a Nanotrasen Security Cadet while quietly executing the wider mission framework.
 
-[color=#cb0000]──────────────────────────────────────[/color]
-
-[head=3][color=#cb0000]B. Asset Profile Summary[/color][/head]
-Operative: K[color=red]█████[/color] O[color=red]████[/color] S[color=red]███[/color]
-Codename: Black Cat
-Status: Integrated – Monitored Deployment
-
-Core Competencies:
-• High level experience countering Cybersun tactical teams.
-• Proven containment, asset protection, and crisis stabilization reliability.
-• Ability to function within mixed authority hierarchies without operational drift.
-• Familiarity with Donk Co. sabotage patterns and diversion methods.
-
-Behavioral Notes:
-• Strong initiative during leadership gaps—requires clear structure.
-• Highly mission oriented; tends to seek strategic targets beyond immediate tasking.
-• Exhibits heightened threat assessment even in low risk contexts.
-
-Nanotrasen will benefit from these attributes while retaining full formal authority over daily duties.
-
 [color=#c0753b]──────────────────────────────────────[/color]
 
 [head=3][color=#c0753b]C. Cooperation Framework[/color][/head]
 Agreed Terms Between Waffles Co. and Nanotrasen:
 
 • Waffles formally acknowledges Nanotrasen’s exclusive command over Cadet operations.
-• Black Cat's broader mission aligns with NT’s interest in dismantling Cybersun activity and countering Donk Co. infiltration.
-• Waffles will not request operational data unrelated to Cybersun/Donk interactions.
+• Black Cat's broader mission aligns with NT’s interest in dismantling [color=#cb0000]C████sun's[/color] activity and countering Donk Co. infiltration.
+• Waffles will not request operational data unrelated to [color=#cb0000]C████sun's[/color] interactions.
 • Waffles retains the right to perform behavioral audits during the initial 90 shift integration period.
 • Both parties commit to maintaining deniability regarding the project’s strategic dimension.
 
-This collaboration offers Nanotrasen a competitive advantage without implying formal allegiance.
-
-[color=#c0753b]──────────────────────────────────────[/color]
-
-[head=3][color=#c0753b]D. Strategic Value for Nanotrasen[/color][/head]
-Black Cat’s placement inside NT provides:
-
-• Immediate reinforcement of on station security capability.
-• A counter spy asset capable of recognizing Cybersun operational signatures.
-• A stabilizing influence during crisis events, asset theft attempts, or sabotage waves.
-• Enhanced internal resilience against Donk Co. sleeper networks.
-• Long term operational intelligence benefiting NT’s rivalry with Cybersun.
-
-From Nanotrasen’s perspective, this is an opportunity to weaken a competitor using an asset trained by a supplier they cannot directly pressure—with clear upside and minimal liability.
-
-[color=#c0753b]──────────────────────────────────────[/color]
-
-[color=#c0753b][italic]“Controlled pressure yields predictable outcomes.”[/italic][/color]
 [color=#c0753b]──────────────────────────────────────────[/color]
 
 Attachments:
